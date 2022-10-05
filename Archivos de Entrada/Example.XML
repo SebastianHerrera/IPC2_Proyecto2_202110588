@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<listaEmpresas>
+ <empresa id="2">
+ <nombre> CocaCola </nombre>
+<abreviatura> Coke </abreviatura>
+<listaPuntosAtencion>
+ <puntoAtencion id="$123">
+ <nombre> $nombrePuntoServicio </nombre>
+ <direccion> $direccionPuntoServicio </direccion>
+<listaEscritorios>
+ <escritorio id="1">
+ <identificacion> Escritorio 1 </identificacion>
+ <encargado> Epenes Ramírez </encargado>
+ </escritorio>
+</listaEscritorios>
+ </puntoAtencion>
+ </listaPuntosAtencion>
+<listaTransacciones>
+ <transaccion id="124">
+ <nombre> Pago </nombre>
+<tiempoAtencion> 3 </tiempoAtencion>
+ </transaccion>
+</listaTransacciones>
+ </empresa>
+ <empresa id="3">
+ <nombre> Pepsi </nombre>
+<abreviatura> PEPSI RICA PTM </abreviatura>
+<listaPuntosAtencion>
+ <puntoAtencion id="$123">
+ <nombre> $nombrePuntoServicio </nombre>
+ <direccion> $direccionPuntoServicio </direccion>
+<listaEscritorios>
+ <escritorio id="1">
+ <identificacion> Escritorio 1 </identificacion>
+ <encargado> Epenes Ramírez </encargado>
+ </escritorio>
+</listaEscritorios>
+ </puntoAtencion>
+ </listaPuntosAtencion>
+<listaTransacciones>
+ <transaccion id="124">
+ <nombre> Pago </nombre>
+<tiempoAtencion> 3 </tiempoAtencion>
+ </transaccion>
+</listaTransacciones>
+ </empresa>
+</listaEmpresas>

@@ -1,0 +1,12 @@
+Nombre de Empresa: McDonalds Inc
+Id de Empresa: 4
+Abreviatura de Empresa: Mc
+ID del Punto de Atención: 100
+Nombre del Punto de Atención: McDonalds 100
+Dirección del Punto de Atención: Mixco
+ID del Escritorio: 1
+Nombre del Escritorio: Escritorio 1 
+Dirección del Escritorio: Mixco
+ID de la Transacción: 3
+Nombre de la transacción: Pago de Hamburguesas
+Tiempo de la transacción: 2

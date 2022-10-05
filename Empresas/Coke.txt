@@ -1,0 +1,9 @@
+Nombre de Empresa: CocaCola
+Id de Empresa: 1
+Abreviatura de Empresa: Coke
+ID del Punto de Atención: 1
+Nombre del  Punto de Atención: Coca Guate
+Dirección del Punto de Atención: Ciudad de Guatemala
+ID del Punto de Atención: 1
+Nombre del  Punto de Atención: Escritorio 1
+Dirección del Punto de Atención: Ciudad de Guatemala

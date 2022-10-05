@@ -1,0 +1,12 @@
+Nombre de Empresa: Telus Corporation
+Id de Empresa: 1
+Abreviatura de Empresa: Telus
+ID del Punto de Atención: 1
+Nombre del Punto de Atención: Telus Pradera
+Dirección del Punto de Atención: Ciudad de Guatemala
+ID del Escritorio: 1
+Nombre del Escritorio: Atención al Cliente 1
+Dirección del Escritorio: Ciudad de Guatemala
+ID de la Transacción: 1
+Nombre de la transacción: Pagos en línea
+Tiempo de la transacción: 3
